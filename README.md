@@ -1,2 +1,3 @@
 # cpp-ex-kniffel
-Me learning cpp
+Me learning cpp\
+Small Project, Dice game Kniffel
